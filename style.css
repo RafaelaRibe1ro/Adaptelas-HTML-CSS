@@ -1,0 +1,113 @@
+body{
+    background-color: hsl(233, 47%, 7%);
+    color: hsl(0, 0%, 100%);
+}
+
+.filho{
+    position: absolute;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    top: 150px;
+    right: 220px;
+    width: 950px;
+    height: 370px;
+    background-color: hsl(244, 38%, 16%);
+}
+
+.filho1{
+    position: absolute;
+    font-size: 35px;
+    display: flex;
+    justify-content: left;
+    top: 200px;
+    width: 350px;
+    left: 250px;
+    height: 220px;
+    color: hsla(0, 0%, 100%);
+}
+
+.filho2{
+    position: absolute;
+    font-size: 15px;
+    display: flex;
+    justify-content: left;
+    top: 320px;
+    width: 300px;
+    left: 250px;
+    height: 220px;
+    color: hsla(0, 0%, 100%, 0.75);
+    
+}
+
+.filho3{
+    position: absolute;
+    font-size: 25px;
+    display: flex;
+    justify-content: left;
+    top: 430px;
+    width: 350px;
+    left: 250px;
+    height: 200px;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+.filho4{
+    position: absolute;
+    font-size: 12px;
+    display: flex;
+    justify-content: left;
+    top: 460px;
+    width: 350px;
+    left: 250px;
+    height: 200px;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+.filho5{
+    position: absolute;
+    font-size: 25px;
+    display: flex;
+    justify-content: left;
+    top: 430px;
+    width: 350px;
+    left: 370px;
+    height: 200px;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+.filho6{
+    position: absolute;
+    font-size: 12px;
+    display: flex;
+    justify-content: left;
+    top: 460px;
+    width: 350px;
+    left: 370px;
+    height: 200px;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+.filho7{
+    position: absolute;
+    font-size: 25px;
+    display: flex;
+    justify-content: left;
+    top: 430px;
+    width: 350px;
+    left: 490px;
+    height: 200px;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+.filho8{
+    position: absolute;
+    font-size: 12px;
+    display: flex;
+    justify-content: left;
+    top: 460px;
+    width: 350px;
+    left: 490px;
+    height: 200px;
+    color: hsla(0, 0%, 100%, 0.75);
+}
