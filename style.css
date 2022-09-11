@@ -30,6 +30,7 @@ body{
 }
 
 .filho1a{
+    position: absolute;
     font-size: 30px;
     font-family: 'Inter', sans-serif;
     font-weight: bold;
@@ -163,4 +164,15 @@ body{
     left: 490px;
     height: 200px;
     color: hsla(0, 0%, 100%, 0.6);
+}
+
+.img{
+    position: absolute;
+    filter: opacity(50%);
+    display: flex;
+    justify-content: center;
+    top: 150px;
+    right: 220px;
+    width: 475px;
+    height: 370px;
 }
